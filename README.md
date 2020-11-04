@@ -1,4 +1,4 @@
-# Murphys-Law-in-Action (2020)
+# Murphy's Law in Action (2020)
 Portal-Like FPS Puzzle Game.
 Created in Unity, written in C#.
 Assets kept in repositories are only the ones I created myself.
